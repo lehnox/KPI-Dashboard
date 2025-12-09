@@ -1,4 +1,4 @@
-# Dashboard Analytics - KPI
+# WebPanel - Dashboard Analytics
 
 Um painel web moderno e responsivo focado em análises gráficas, KPIs e dashboards interativos.
 
